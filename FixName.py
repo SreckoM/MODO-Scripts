@@ -19,3 +19,5 @@ for itm in scene.selected:
 
 	print ('New name: %s') % itm.name
 	
+
+#Test push	
